@@ -1,0 +1,26 @@
+﻿#container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.Header {
+    height: 80px;
+    background-color: red;
+    padding: 25px;
+}
+
+.Menu {
+    height: 125px;
+    background-color: blue;
+}
+
+.Body {
+    height: 700px;
+    background-color: cornflowerblue;
+    padding: 50px;
+}
+
+.Footer {
+    height: 70px;
+    background-color: green;
+    padding: 25px;
+}
