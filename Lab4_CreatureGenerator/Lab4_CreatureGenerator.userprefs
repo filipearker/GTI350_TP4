@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2FDE0783-8F3C-4972-97F9-D04CB13E272B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4_CreatureGenerator/Default.aspx">
+    <Files>
+      <File FileName="Lab4_CreatureGenerator/Default.aspx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
